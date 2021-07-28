@@ -4,14 +4,14 @@
   "info": {
     "name": "libcryptopp",
     "id": "libcryptopp",
-    "version": "0.0.1",
+    "version": "8.5.0",
     "url": "https://github.com/darknight1050/cryptopp-qpm/",
     "additionalData": {
       "staticLinking": true,
       "useRelease": true,
       "overrideSoName": "libcryptopp.a",
-      "branchName": "version-v0.0.1",
-      "soLink": "https://github.com/darknight1050/cryptopp-qpm/releases/download/v0.0.1/libcryptopp.a"
+      "branchName": "version-v8.5.0",
+      "soLink": "https://github.com/darknight1050/cryptopp-qpm/releases/download/v8.5.0/libcryptopp.a"
     }
   },
   "dependencies": [],
